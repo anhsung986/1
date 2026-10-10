@@ -1,0 +1,9 @@
+{
+  "name": "CHI-DOI-CHAT",
+  "short_name": "CHI-DOI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#087ff5",
+  "icons": []
+}
